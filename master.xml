@@ -8,99 +8,99 @@
 Your sources have been sync'd successfully.
   </notice>
 
-  <project path="src/scripts" name="coreos/scripts"
+  <project path="src/scripts" name="Nokia_DAaaS_CoreOS/scripts"
            groups="minilayout" />
 
   <project path="src/third_party/portage-stable"
-           name="coreos/portage-stable"
+           name="Nokia_DAaaS_CoreOS/portage-stable"
            groups="minilayout" />
 
   <project path="src/third_party/coreos-overlay"
-           name="rasztasd/coreos-overlay"
+           name="Nokia_DAaaS_CoreOS/coreos-overlay"
            groups="minilayout" />
 
   <project path="src/third_party/update_engine"
-           name="coreos/update_engine"
+           name="Nokia_DAaaS_CoreOS/update_engine"
            groups="minilayout" />
 
   <project path="src/platform/dev"
-           name="coreos/dev-util"
+           name="Nokia_DAaaS_CoreOS/dev-util"
            groups="minilayout" />
 
   <project path="src/third_party/init"
-           name="coreos/init"
+           name="Nokia_DAaaS_CoreOS/init"
            groups="minilayout" />
 
   <project path="src/third_party/bootengine"
-           name="rasztasd/bootengine"
+           name="Nokia_DAaaS_CoreOS/bootengine"
            groups="minilayout" />
 
   <project path="src/third_party/etcd"
-           name="coreos/etcd"
+           name="Nokia_DAaaS_CoreOS/etcd"
            groups="minilayout" />
 
   <project path="src/third_party/docker"
-           name="coreos/docker"
+           name="Nokia_DAaaS_CoreOS/docker"
            groups="minilayout" />
 
   <project path="src/third_party/etcdctl"
-           name="coreos/etcdctl"
+           name="Nokia_DAaaS_CoreOS/etcdctl"
            groups="minilayout" />
 
   <project path="src/third_party/seismograph"
-           name="coreos/seismograph"
+           name="Nokia_DAaaS_CoreOS/seismograph"
            groups="minilayout" />
 
   <project path="src/third_party/sysroot-wrappers"
-           name="coreos/sysroot-wrappers"
+           name="Nokia_DAaaS_CoreOS/sysroot-wrappers"
            groups="minilayout" />
 
   <project path="src/third_party/nss-altfiles"
-           name="coreos/nss-altfiles"
+           name="Nokia_DAaaS_CoreOS/nss-altfiles"
            groups="minilayout" />
 
   <project path="src/third_party/baselayout"
-           name="coreos/baselayout"
+           name="Nokia_DAaaS_CoreOS/baselayout"
            groups="minilayout" />
 
   <project path="src/third_party/coreos-cloudinit"
-           name="coreos/coreos-cloudinit"
+           name="Nokia_DAaaS_CoreOS/coreos-cloudinit"
            groups="minilayout" />
 
   <project path="src/third_party/locksmith"
-           name="coreos/locksmith"
+           name="Nokia_DAaaS_CoreOS/locksmith"
            groups="minilayout" />
 
   <project path="src/third_party/toolbox"
-           name="coreos/toolbox"
+           name="Nokia_DAaaS_CoreOS/toolbox"
            groups="minilayout" />
 
   <project path="src/third_party/updateservicectl"
-           name="coreos/updateservicectl"
+           name="Nokia_DAaaS_CoreOS/updateservicectl"
            groups="minilayout" />
 
   <project path="src/third_party/grub"
-           name="coreos/grub"
+           name="Nokia_DAaaS_CoreOS/grub"
            groups="minilayout" />
 
   <project path="src/third_party/sdnotify-proxy"
-           name="coreos/sdnotify-proxy"
+           name="Nokia_DAaaS_CoreOS/sdnotify-proxy"
            groups="minilayout" />
 
   <project path="src/third_party/mantle"
-           name="coreos/mantle"
+           name="Nokia_DAaaS_CoreOS/mantle"
            groups="minilayout" />
 
   <project path="src/third_party/rkt"
-           name="coreos/rkt"
+           name="Nokia_DAaaS_CoreOS/rkt"
            groups="minilayout" />
 
   <project path="src/third_party/systemd"
-           name="coreos/systemd"
+           name="Nokia_DAaaS_CoreOS/systemd"
            groups="minilayout" />
 
   <project path="src/third_party/mayday"
-           name="coreos/mayday"
+           name="Nokia_DAaaS_CoreOS/mayday"
            groups="minilayout" />
 
   <!-- <project path="src/third_party/shim"
@@ -108,7 +108,7 @@ Your sources have been sync'd successfully.
        groups="minilayout" />
   -->
   <project path="src/third_party/shim"
-           name="rhboot/shim"
+           name="Nokia_DAaaS_CoreOS/shim"
            groups="minilayout" />
 
   <project path="src/third_party/appc-spec"
@@ -120,23 +120,23 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/ignition"
-           name="coreos/ignition"
+           name="Nokia_DAaaS_CoreOS/ignition"
            groups="minilayout" />
 
   <project path="src/third_party/coreos-metadata"
-           name="coreos/coreos-metadata"
+           name="Nokia_DAaaS_CoreOS/coreos-metadata"
            groups="minilayout" />
 
   <project path="src/third_party/torcx"
-           name="coreos/torcx"
+           name="Nokia_DAaaS_CoreOS/torcx"
            groups="minilayout" />
 
   <project path="src/third_party/update-ssh-keys"
-           name="coreos/update-ssh-keys"
+           name="Nokia_DAaaS_CoreOS/update-ssh-keys"
            groups="minilayout" />
 
   <project path="src/third_party/fero"
-           name="coreos/fero"
+           name="Nokia_DAaaS_CoreOS/fero"
            groups="minilayout" />
 
 </manifest>
