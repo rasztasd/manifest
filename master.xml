@@ -112,11 +112,11 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/appc-spec"
-           name="appc/spec"
+           name="Nokia_DAaaS_CoreOS/spec"
            groups="minilayout" />
 
   <project path="src/third_party/appc-acbuild"
-           name="appc/acbuild"
+           name="Nokia_DAaaS_CoreOS/acbuild"
            groups="minilayout" />
 
   <project path="src/third_party/ignition"
